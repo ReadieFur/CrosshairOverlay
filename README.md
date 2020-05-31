@@ -1,2 +1,2 @@
 # CrosshairOverlay
-A crosshair overlay for your monitor, it currently fatures an x crosshair and a circle reticle, the coulour size and ocapacity of the crosshair can be customised by the user.
+A crosshair overlay for your monitor, it currently features an x crosshair and a circle reticle, the coulour size and capacity of the crosshair can be customized by the user.
