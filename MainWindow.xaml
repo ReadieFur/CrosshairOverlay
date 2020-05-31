@@ -1,0 +1,21 @@
+﻿<Window x:Class="CrosshairOverlay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CrosshairOverlay"
+        mc:Ignorable="d" Loaded="mw_Loaded" Initialized="mw_Initialized"
+        Title="MainWindow" Height="450" Width="800" AllowsTransparency="True" WindowStyle="None" Topmost="True" Background="{x:Null}" IsHitTestVisible="False" ShowInTaskbar="False">
+    <Grid Background="Transparent" IsHitTestVisible="False">
+        <Grid x:Name="cSize" Margin="389.126,214.126" Width="15" Height="15">
+            <Grid x:Name="circle" IsHitTestVisible="False">
+                <Ellipse x:Name="sCircle" Fill="Black" IsHitTestVisible="False"/>                
+            </Grid>
+            <Grid x:Name="cross" IsHitTestVisible="False">
+                <Path x:Name="TLBR" IsHitTestVisible="False" Data="M255.26906,169.50673 L365.24664,297.64574" Fill="#FFF4F4F5" Stretch="Fill" Stroke="Black" StrokeThickness="2"/>
+                <Path x:Name="TRBL" IsHitTestVisible="False" Data="M360.20179,260.3139 L447.98206,200.78475" Fill="#FFF4F4F5" Stretch="Fill" Stroke="Black" StrokeThickness="2"/>
+            </Grid>
+            <Image x:Name="cImage"/>
+        </Grid>
+    </Grid>
+</Window>

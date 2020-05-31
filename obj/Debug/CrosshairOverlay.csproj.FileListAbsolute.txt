@@ -1,0 +1,36 @@
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\bin\Debug\CrosshairOverlay.dll
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\bin\Debug\CrosshairOverlay.pdb
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\bin\Debug\Newtonsoft.Json.xml
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\MainWindow.g.cs
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\SettingsV2.g.cs
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\CrosshairOverlay_MarkupCompile.cache
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\CrosshairOverlay_MarkupCompile.lref
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\MainWindow.baml
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\SettingsV2.baml
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\CrosshairOverlay.g.resources
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\CrosshairOverlay.csproj.Fody.CopyLocal.cache
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\CrosshairOverlay.csproj.CopyComplete
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\CrosshairOverlay.dll
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\CrosshairOverlay.pdb
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents (New)\Visual Studio\kOFR Repo\CrosshairOverlay\obj\Debug\CrosshairOverlay.csprojAssemblyReference.cache
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\bin\Debug\CrosshairOverlay.dll
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\bin\Debug\CrosshairOverlay.pdb
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\bin\Debug\Newtonsoft.Json.xml
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\CrosshairOverlay.csprojAssemblyReference.cache
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\MainWindow.g.cs
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\SettingsV2.g.cs
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\CrosshairOverlay_MarkupCompile.cache
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\CrosshairOverlay_MarkupCompile.lref
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\MainWindow.baml
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\SettingsV2.baml
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\CrosshairOverlay.g.resources
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\CrosshairOverlay.csproj.Fody.CopyLocal.cache
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\CrosshairOverlay.csproj.CopyComplete
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\CrosshairOverlay.dll
+D:\Documents (New)\Visual Studio\kOFR Repo\C# Projects\CrosshairOverlay\obj\Debug\CrosshairOverlay.pdb
